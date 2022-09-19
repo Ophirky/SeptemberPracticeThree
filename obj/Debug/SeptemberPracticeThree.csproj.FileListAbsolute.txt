@@ -1,0 +1,8 @@
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\bin\Debug\SeptemberPracticeThree.exe.config
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\bin\Debug\SeptemberPracticeThree.exe
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\bin\Debug\SeptemberPracticeThree.pdb
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\obj\Debug\SeptemberPracticeThree.csproj.AssemblyReference.cache
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\obj\Debug\SeptemberPracticeThree.csproj.SuggestedBindingRedirects.cache
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\obj\Debug\SeptemberPracticeThree.csproj.CoreCompileInputs.cache
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\obj\Debug\SeptemberPracticeThree.exe
+C:\Users\ophir\OneDrive\Desktop\School\דברים לבית ספר\שיעורי בית\מדעי המחשב\SeptemberPracticeThree\obj\Debug\SeptemberPracticeThree.pdb
